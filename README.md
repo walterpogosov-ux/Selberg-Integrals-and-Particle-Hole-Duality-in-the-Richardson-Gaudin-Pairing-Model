@@ -1,7 +1,9 @@
 # Selberg-Integrals-and-Particle-Hole-Duality-in-the-Richardson-Gaudin-Pairing-Model
-LLM-assisted research in mathematical physics. New ideas on solving Richardson-Gaudin equations. 
+
 Full package can be found here: 
 https://doi.org/10.5281/zenodo.22869018
+
+
 Authorship, provenance, and verification. The scientific problem, original method, and research direction belong to W. V. Pogosov. This project builds on his published and unpublished work developed before the involvement of an advanced large language model (LLM). During the subsequent LLM-assisted phase, the LLM produced detailed derivations, calculations, and verification programs through an extended collaboration with the author. The author has not exhaustively verified every calculation and proof. The research developed through many iterations and branching lines of enquiry over a substantial period of time. The author posed and refined questions, assessed proposed directions, and guided the revision, rejection, and combination of intermediate approaches; the LLM supplied calculations and arguments that prompted further questions and revisions. The resulting manuscript is a record of this reciprocal, sustained research process.
 
 Selberg Integrals and Particle–Hole Duality in the Richardson–Gaudin Pairing Model. Subtitle: Exact Periods, Self-Dual States, and Finite-Size Crossover. Version 1.3, the fourth prepared edition, combines two lines of analysis of the reduced pairing Hamiltonian: exact Selberg-type contour periods and a direct particle–hole/self-dual polynomial construction. The title has been updated to reflect this broader scope; the preceding twenty-two chapters are retained.
