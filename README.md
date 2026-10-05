@@ -1,4 +1,4 @@
-# Selberg-Integrals-and-Particle-Hole-Duality-in-the-Richardson-Gaudin-Pairing-Model
+# Selberg Integrals and Particle Hole Duality in the Richardson-Gaudin Pairing Model
 
 Full package can be found here: 
 https://doi.org/10.5281/zenodo.22869018
